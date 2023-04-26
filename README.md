@@ -1,5 +1,5 @@
 # sky-mapper-React
-ReactJS login and component dashboard that uses OpenSky API to show a near-realtime information of all flights around the world
+ReactJS login and component dashboard that uses OpenSky API to show all the flights arriving and departing from all airports
 
 # Instructions
 OpenSky is a free service, that shows a near-realtime information of all flights around the world

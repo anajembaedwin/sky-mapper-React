@@ -7,9 +7,8 @@ OpenSky is a free service, that shows a near-realtime information of all flights
 For this task
 =============
 
--> Using the OpenskyAPI, 1) create a ReactJS login and component dashboard and 2) Create an Angular 5 (or higher) login and component dashboard that shows all the flights arriving and departing from all airports  
-
-
+## Using the OpenskyAPI: 
+create a ReactJS login and component dashboard that shows all the flights arriving and departing from all airports  
 in this format AIRPORT | TIME | arriving | departing
 
 e.g  DFW | 15:00 PM CST | 50 | 32
